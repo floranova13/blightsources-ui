@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { signIn } from '../utils/auth';
+import { signUp } from '../utils/auth';
 
-const SignInForm = ({ userSetter }) => {
+const SignUpForm = ({ userSetter }) => {
   const [error, setError] = useState('');
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
@@ -9,18 +9,36 @@ const SignInForm = ({ userSetter }) => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const result = await signIn(username, password);
-    if (typeof result === 'string') {
-      setError(result);
-    } else {
-      userSetter(result);
+    if (validateEmail(email)) {
+      const result = await signUp(username, password, email);
+      if (typeof result === 'string') {
+        setError(result);
+      } else {
+        userSetter(result);
+      }
     }
+  };
+
+  const validateEmail = (s) => {
+    if (/^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/.test(s)) {
+      return true;
+    }
+    setError('You have entered an invalid email address!');
+    return false;
   };
 
   return (
     <form onSubmit={handleSubmit}>
       <div>{error}</div>
-      <div>{email}</div>
+      <label>
+        Email
+        <input
+          placeholder='Email'
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          required
+        />
+      </label>
       <label>
         Username
         <input
@@ -44,4 +62,4 @@ const SignInForm = ({ userSetter }) => {
   );
 };
 
-export default SignInForm;
+export default SignUpForm;
