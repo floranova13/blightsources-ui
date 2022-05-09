@@ -7,9 +7,9 @@ router.get('/', async (req, res) => {
     TableName: 'blightbane',
     ExpressionAttributeNames: { '#g': 'group' },
     ExpressionAttributeValues: {
-      ':subcategories': 'subcategories',
+      ':blightsources': 'blightsources',
     },
-    KeyConditionExpression: '#g = :subcategories',
+    KeyConditionExpression: '#g = :blightsources',
   };
 
   client.query(params, (err, data) => {
@@ -30,10 +30,10 @@ router.get('/:name', async (req, res) => {
     TableName: 'blightbane',
     ExpressionAttributeNames: { '#g': 'group', '#n': 'name' },
     ExpressionAttributeValues: {
-      ':subcategories': 'subcategories',
+      ':blightsources': 'blightsources',
       ':queryName': queryName,
     },
-    KeyConditionExpression: `#g = :subcategories AND #n = :queryName`,
+    KeyConditionExpression: `#g = :blightsources AND #n = :queryName`,
   };
 
   client.query(params, (err, data) => {
@@ -43,7 +43,7 @@ router.get('/:name', async (req, res) => {
       const items = [];
       for (let i in data.Items) items.push(data.Items[i]);
       if (items.length === 0) {
-        res.status(204).send(`No subcategory of name "${queryName}" found.`);
+        res.status(204).send(`No blightsource of name "${queryName}" found.`);
       }
       res.contentType = 'application/json';
       res.send(items[0]);
