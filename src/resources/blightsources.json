@@ -1,0 +1,939 @@
+{
+  "blightsources": {
+    "blightstones": {
+      "blightfoils": [
+        {
+          "category": "Blightstones",
+          "subcategory": "Blightfoils",
+          "name": "Forslone",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightstones",
+          "subcategory": "Blightfoils",
+          "name": "Erecombe",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightstones",
+          "subcategory": "Blightfoils",
+          "name": "Voidshimmer",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "crystali": [
+        {
+          "category": "Blightstones",
+          "subcategory": "Crystali",
+          "name": "Apertrite",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightstones",
+          "subcategory": "Crystali",
+          "name": "Meartite",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightstones",
+          "subcategory": "Crystali",
+          "name": "Digitrite",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "lylodes": [
+        {
+          "category": "Blightstones",
+          "subcategory": "Lylodes",
+          "name": "Charke",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightstones",
+          "subcategory": "Lylodes",
+          "name": "Amplare",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightstones",
+          "subcategory": "Lylodes",
+          "name": "Curos",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ]
+    },
+    "blightichors": {
+      "lifeblight": [
+        {
+          "category": "Blightichors",
+          "subcategory": "Lifeblight",
+          "name": "Rigorvat",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightichors",
+          "subcategory": "Lifeblight",
+          "name": "Purivat",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightichors",
+          "subcategory": "Lifeblight",
+          "name": "Mirivat",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "blightvenoms": [
+        {
+          "category": "Blightichors",
+          "subcategory": "Blightvenoms",
+          "name": "Perceptyde",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightichors",
+          "subcategory": "Blightvenoms",
+          "name": "Residux",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightichors",
+          "subcategory": "Blightvenoms",
+          "name": "Falefate",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "blightmares": [
+        {
+          "category": "Blightichors",
+          "subcategory": "Blightmares",
+          "name": "Blissburn",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightichors",
+          "subcategory": "Blightmares",
+          "name": "Red Agony",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightichors",
+          "subcategory": "Blightmares",
+          "name": "Pulsepox",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ]
+    },
+    "blightfumes": {
+      "rushblight": [
+        {
+          "category": "Blightfumes",
+          "subcategory": "Rushblight",
+          "name": "Mystic",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfumes",
+          "subcategory": "Rushblight",
+          "name": "Surge",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfumes",
+          "subcategory": "Rushblight",
+          "name": "Edge",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "miasmeta": [
+        {
+          "category": "Blightfumes",
+          "subcategory": "Miasmeta",
+          "name": "Lasperr",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfumes",
+          "subcategory": "Miasmeta",
+          "name": "Manaphage",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfumes",
+          "subcategory": "Miasmeta",
+          "name": "Ominox",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "blightmists": [
+        {
+          "category": "Blightfumes",
+          "subcategory": "Blightmists",
+          "name": "Nullmist",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfumes",
+          "subcategory": "Blightmists",
+          "name": "Magnimist",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfumes",
+          "subcategory": "Blightmists",
+          "name": "Intermist",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ]
+    },
+    "blightflora": {
+      "blightblooms": [
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightblooms",
+          "name": "Shrineflower",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightblooms",
+          "name": "Hydrobloom",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightblooms",
+          "name": "Shimmering Nightblight",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "blightpillars": [
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightpillars",
+          "name": "Whitespire",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightpillars",
+          "name": "Greyspire",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightpillars",
+          "name": "Blackspire",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "blightsnarls": [
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightsnarls",
+          "name": "Silverclutch",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightsnarls",
+          "name": "Wenderweave",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightsnarls",
+          "name": "Darkcoil",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ]
+    },
+    "blightfungi": {
+      "blightshrooms": [
+        {
+          "category": "Blightfungi",
+          "subcategory": "Blightshrooms",
+          "name": "Flushpod",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfungi",
+          "subcategory": "Blightshrooms",
+          "name": "Metashroom",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfungi",
+          "subcategory": "Blightshrooms",
+          "name": "Tranceloom",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "blightbleeds": [
+        {
+          "category": "Blightfungi",
+          "subcategory": "Blightbleeds",
+          "name": "Trickelpus",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfungi",
+          "subcategory": "Blightbleeds",
+          "name": "Rockmole",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfungi",
+          "subcategory": "Blightbleeds",
+          "name": "Achromatic Ooze",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "sporesprawls": [
+        {
+          "category": "Blightfungi",
+          "subcategory": "Sporesprawls",
+          "name": "Sporesprawl1",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfungi",
+          "subcategory": "Sporesprawls",
+          "name": "Sporesprawl2",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightfungi",
+          "subcategory": "Sporesprawls",
+          "name": "Sporesprawl3",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ]
+    },
+    "blightanomalies": {
+      "tokens": [
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Tokens",
+          "name": "Dusk Orb",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Tokens",
+          "name": "Token2",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Tokens",
+          "name": "Token3",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "loci": [
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Loci",
+          "name": "Locus1",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Loci",
+          "name": "Locus2",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Loci",
+          "name": "Locus3",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ],
+      "vestiges": [
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Vestiges",
+          "name": "Lightmare Prism",
+          "rarity": 27,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Vestiges",
+          "name": "Vestige2",
+          "rarity": 9,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        },
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Vestiges",
+          "name": "Vestige3",
+          "rarity": 1,
+          "description": [
+            "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Animi iure omnis perspiciatis veritatis molestiae sit accusamus tenetur, porro quibusdam eum!"
+          ],
+          "introduced": 1,
+          "basevalue": -1,
+          "volatility": "volatile"
+        }
+      ]
+    }
+  },
+  "description": [
+    "Over time, blightsources have been organized into groupings based on apparent features. This system of organization differs from region to region, but the Shrouded Theocracy uses a list of six major categories, each with subcategories clustered within. These are: 'Blightstones', 'Blightichors', 'Blightfumes', 'Blightflora', 'Blightfungi', and 'Blightanomalies'.",
+    "Some blightsources are more or less useful than others. Some can be used as fuel, as magical catalysts, molded into armor, or store magical energies, among other applications. The Blightbane Guild serves as the most prominent buyer, consumer, and distributer of most varieties of blightsources. This is their major source of income, and the backbone upon which they pay their staff, contractors, and bankroll research endeavors.",
+    "Some Blight Seekers specialize in harvesting and transporting blightsources. They are known as 'Harvesters', but among them are the porters and guards. This work is more lucrative than taking on blightbeast culling contracts, but it comes with a unique set of risks. They must collect resources in a battlefield where they must trust that their guards can protect them, focusing on extracting what they need without damaging the product. For this reason, the Guild requires that all Harvesters be full seekers, trained to defend themselves if need be. However, if a Harvester needs to defend themselves, it is often too late."
+  ],
+  "information": [
+    {
+      "category": "Blightstones",
+      "description": [
+        "Blightstones are materials ranging from the metals smelted from blightfoils, to the crystal clusters of semi-transparent crystali, to the dense leylode deposits. They are more easily found in desert, tundras, and marine biome festerfonts. Conversely, they are less likely to be found in grassland biome festerfonts.",
+        "Blightstones are primarily harvested using miner's picks, or jeweler's chisels for the more delicate Crystali. Some guilds, however, have the resources to equip their harvesters with magitech harvesting tools, or equipment of wholly mechanical make. These guilds are few and far between, and they are discouraged by regular losses to blightbeasts, or high maintenance costs of expensive and fickle equipment."
+      ],
+      "subcategories": [
+        {
+          "category": "Blightstones",
+          "subcategory": "Blightfoils",
+          "description": [
+            "Blightfoils are metals smelted from minerals carrying inherently magical qualities. One would think that this would make such materials exceptionally valuable, but it is not so. Their worth is inflated due to the metals being difficult to work with and even more difficult to find a use for. Predicting how a blightfoil will interact with any given spell is tricky. Mages are notoriously reckless, but who uses a blightfoil catalyst is going a step further than the norm in regards to disregard for personal safety.",
+            "The most popular blightfoil would have to be forslone, which effectively cloaks the bearer in a magically repellant shield. It is more complicated than that, but defense against magic is one thing anyone will upend their coin purses for. Other metals are sometimes used for decoration, such as the beautiful voidshimmer, with its midnight black base, full of everlasting purple sparkles."
+          ]
+        },
+        {
+          "category": "Blightstones",
+          "subcategory": "Crystali",
+          "description": [
+            "Crystali are found in fragile clusters, often glittering in the caves of festerfonts, far off the beaten path. They are unique for their ability to store and expel magical energy. For this reason, they are used as vessels for energy, and portable spell containers. Some crystali are durable enough to expend the stored spell multiple times, but these are rare, and most simple shatter once they are used.",
+            "As disposable as these materials are, a merchant is always willing to buy one, no matter how small the crystal fragment may be. Harvesting them is no easy task. They are prone to shattering at the lightest touch. That goes doubly for using them to store a spell. Commonly, vitality and clarity shards are formed from small crystals of apertrite, which is the least expensive crystali on the market."
+          ]
+        },
+        {
+          "category": "Blightstones",
+          "subcategory": "Lylodes",
+          "description": [
+            "Leylodes are dense deposits found in the depths of festerfont rock, or less commonly, on the surface said blighted land. Though festerfonts spawn blightbeasts and blightsources seemingly randomly and spontaneously, leylodes have been observed to proliferate from existing deposits. In this way, a harvest crew can leave a small portion of easily-accessible leylode untouched, until it grows enough to tap into once more. That is, if another crew hasn't gotten their first.",
+            "Harvesting leylodes is easy enough, as the real chore is transporting any sizable quantity out of the festerfont and getting a good price for it. Fortunately, the price of charke, the most commonly encountered leylode, is always high enough to make it worth the effort. The Guild will always buy other leylodes, especially curos, for which they remain the sole buyer."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Blightichors",
+      "description": [
+        "Blightichors are materials ranging from the vital lifeblight, to the viscous and toxic blightvenoms, to the thick and madness-inducing blightmares. They are more easily found in tundra and freshwater biome festerfonts. Conversely, they are less likely to be found in desert and marine biome festerfonts.",
+        "Blightichors  are primarily harvested using long tubes that suck the liquid into metal or ceramic tanks. Depending on the blightichor in question, the process can be extremely dangerous. Leaks in an old or ill-suited tank can expose the harvester to the contents, and though harvesters wear suits and head coverings to protect themselves from their cargo, liquid can seep in and affect the harvester anyway. Affected harvesters can die, become have their cognition permanently altered, and a host of other tragedies can befall them."
+      ],
+      "subcategories": [
+        {
+          "category": "Blightichors",
+          "subcategory": "Lifeblight",
+          "description": [
+            "Used in the creation of restoratives, this is a peculiar category of liquids. Lifeblight flow with low viscosity, much more like water than the sludge some other blightichors are. Of all the blightichors, lifeblight is the most valuable, as most people prioritize safety. For this reason, harvesters will selectively seek lifeblight when harvesting blightichors, leading to fierce competition over easy-to-tap wells and fresh springs.",
+            "Interestingly enough, in dangerous festerfonts where easily-processed lifeblight can be found, it's wise to bring along a portable harvest and processing kit for mid-contract rejuvenation. Even crudely processed lifeblight can be the difference between life and death, when you're party is cornered and running low on everything."
+          ]
+        },
+        {
+          "category": "Blightichors",
+          "subcategory": "Blightvenoms",
+          "description": [
+            "Blightvenoms are much more viscous than lifeblight. They are used to make dangerous concoctions and blade coatings. The difference between treatment and toxin is sometimes a fine line in medicine, but this is not the case with blightvenoms. Almost all of these festerfont secretions are poisons, plain and simple. Gatherers of blightvenoms are an odd sort, even among seekers. They stand out, rarely bonding with their defending seekers, and their closest friends are usually other blightvenom harvesters and the deathdealers whom they sell to.",
+            "National restrictions on trade, even within the increasingly authoritarian nation of Shroud, are still in their infancy. For this reason, trade in poisons are still going strong. This is especially the case with ill-understood substances, like most blightsources. That said, authorities 'in the know' will still lean heavily on deathdealers and harvesters, often forcing them to play down their specialties, to varying effect. Some are simply ill-suited to such deceptions."
+          ]
+        },
+        {
+          "category": "Blightichors",
+          "subcategory": "Blightmares",
+          "description": [
+            "Blightmares are a rare blightichor variant. It is like very thick molasses, with chemical properties far more varied than other blightichors. One thing all blightmares share is an alteration of perception on the target. Sometimes, a concoction will make use of the beneficial properties of this altered perception, at the cost of detrimental affects. It is difficult to argue that any given blightmare is entirely harmless. A willing subject may tolerate the affects of a blightmare, but they do so at their own risk.",
+            "This blightichor variant is named after an ancient belief that the Blight contains many trickster spirits. Supposedly, these spirits enjoy toying with sapient creatures, delighting in their reactions. Most civilized parts of Shroud have shrugged off such superstitions, in large part motivated by cultural purges conducted by knights and enforcers, but wilderness villages will sometimes conduct rituals using blightmares to commune with spirits, exchanging drug-borne entertainment for whatever the wants of the villagers may be. Sometimes, there are even rumors of spirits granting these requests."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Blightfumes",
+      "description": [
+        "Blightfumes are materials ranging from the performance-altering rushblight, to efficiently-lethal miasmeta, to variable and far-ranging blightmists.  They are more easily found in desert and freshwater biome festerfonts. Conversely, they are less likely to be found in grassland and marine biome festerfonts. These gases leak out of festerfonts, and aren't always easy to collect.",
+        "The gaseous blightfumes are are primarily acquired by specialized harvesters nicknamed 'palemasks'. Palemasks wear self-fashioned to protect them from the fumes they collect, and are often interesting characters, unavoidably inhaling enough of their own product over their work to manifest any number of mental disorders. Acute or chronic, it depends how prone they are to checking their suits for breaches on a regular basis, and how tempted they are to intentionally inhale their own product. Many end up dead before they know it."
+      ],
+      "subcategories": [
+        {
+          "category": "Blightfumes",
+          "subcategory": "Rushblight",
+          "description": [
+            "Rushblight are fumes inhaled by those who want to alter their performance, or are maybe just looking for an expensive high. The long-term effect of these chemicals is unknown, but that doesn't stop seekers from using it out in the field. It doesn't matter, so long as they can surpass normal limits in the short term. There is always a tradeoff in using rushblight to perform. The consequences of a crash at the wrong time can lead to death, and it can also be death, depending on the inhalant. Sometimes, seekers will carry a dose of rushblight to take if things get chancy, only to take if they find their back against the wall.",
+            "Addiction abounds in competitive seeker markets. When seekers need to be nearly immortal just to make a living, it leads to people trying to find any edge they can, just to survive. When stress and tight budgets cause riskier and riskier behavior, a seeker relying on rushblight to make ends meet might have to quit the profession. However, it doesn't end there. They are reliant on rushblight, even if it is no longer necessary for them. Rushblight is expensive, so these ex-seekers turn to crime to buy more, and it only goes poorly from there."
+          ]
+        },
+        {
+          "category": "Blightfumes",
+          "subcategory": "Miasmeta",
+          "description": [
+            "As the name implies, these blightfumes are dangerous to inhale. They have few applications save to kill biological organisms. This is not, in fact, a misspelling of miasmata. It alludes to what researchers classify as a 'self-referential' nature of the Blight Miasma's as it annihilates a subject.",
+            "Miasmeta is highly reactive to external stimuli, and to itself, allowing a festerfont to 'tune' Miasmeta to kill a marked target that it's own blightbeasts cannot kill themselves. This was a horrifying discovery, but there is a sliver of hope within this deadly material. If sapient organisms could somehow tune miasmeta themselves, they could turn it back on the Blight. However, where this possible, there would be no stopping ambitious and morally flexible scientists from turning it back on an enemy nation or population."
+          ]
+        },
+        {
+          "category": "Blightfumes",
+          "subcategory": "Blightmists",
+          "description": [
+            "These blightfumes cover a wide area with low-density gaseous particles. These particles alter the properties of magical energies that enter their area of influence. This alteration is predictable, to some extent. Blightmists can be released to protect a group from dangerous magic, nullifying it. An area can also be coated in a mist that alters magic for offensive purposes. Additionally, it can be used in technology to make certain reactors function as intended.",
+            "Given the diverse applications of blightmists, they are valuable desirable to research and manufacturing guilds, and therefore traded in high quantities. This is a period of great discovery and interest in further applications of blightsources, with blightmists are among the most sought-out materials."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Blightflora",
+      "description": [
+        "Blightflora resemble plants, though they appear to interact differently with the established natural laws, much like the very Festerfonts that spawn them. They must be harvested carefully to obtain the valuable parts. If the whole plant is desired, it is even more difficult to store in transit, and harder still to keep alive on arrival. If a blightflora somehow successfully makes it back to a lab without wilting, it must regularly suckle blight energy. Most harvesters will not bother learning to collect them, reasonably deeming them more trouble than they're worth. These are less likely to be found in desert biome festerfonts, but other biomes contain an ample supply.",
+        "Some blightflora exhibit incredible properties, though this category of blightsource is surprisingly varied, so pinning down which variant of blightbloom or blightsnarl has which characteristic can be difficult. This difficulty is compounded by the festerfonts they spawn in, making them inherently difficult to document safely. However, There will always be reckless fools who try to collect them for sport, and it is these hobbyists who are in the best position to contribute to a more comprehensive image of blightflora variability."
+      ],
+      "subcategories": [
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightblooms",
+          "description": [
+            "A blightbloom is a flowering plant that is produced and sustained by the Festerfont. They share a strange property with the festerfonts themselves, very slowly drawing energy from some unknown source. Scientists are fervently studying how this energy might be harvested, though there have been no successful attempts.",
+            "These blightflora are commonly compared to flourishflora, though they aren't very alike at all. Unlike flourishflora, a blightbloom requires no vira to sustain itself, and generates no vira. Instead, like all blightsources, they appear to be a physical manifestation of leaked blight energy. In turn, warped blight energy is all a blightbloom provides."
+          ]
+        },
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightpillars",
+          "description": [
+            "Blightpillars closely resemble trees, but they are produced and sustained by a festerfont's blight energies, and thus, can only grow upon one. They can be cut down to obtain wood with strange properties. Many use this wood for innovative purposes.",
+            "Axes work just as well on blightpillars as they do on normal trees, though inferior materials will quickly wear through. Another concern is that the sound of a blightpillar being felled announces the harvest party's presence, attracting nearby blightbeasts. There has not, to date, ever been a documented case of a harvester successfully collecting a living blightpillar specimen. At least, not one that lived long once it was replanted outside a festerfont."
+          ]
+        },
+        {
+          "category": "Blightflora",
+          "subcategory": "Blightsnarls",
+          "description": [
+            "These blightflora consist of bodies called 'soma', which produce extensions of different tissue called 'axons'. These two parts form intricate webs together with other members of a community of blightsnarls. Experimentation with active networks of blightsnarls reveal that they are capable of transmitting signals relating to resource locations and threats to their environment, across the network, and thereby guide the future development of the network. A blightsnarl does not need any of the resources it discovers. The function of the mapping behavior is unclear.",
+            "One recent revelation is that blightsnarls only appear within 'command' configuration festerfonts, or where there are nearby neighboring command festerfonts. Disrupting blightsnarl networks growing around a festerfont will hinder the ability for a command festerfont to communicate with its neighbors, though, it is only one such communication mechanism a command type employs. Researchers believe blightsnarls will eventually be harvested for use in pseudo-biological computation technology, using the material's innate networking specialization to allow sentients to communicate across vast distances. There is also further speculation on whether artificial representations could be made possible through study."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Blightfungi",
+      "description": [
+        "Blightfungi resemble fungi of the natural world, though the similarities often end upon close examination. They are often parasitic in nature, leeching resources in a specific way (e.g blightshrooms). Another trait drawn under this umbrella is the ability to self-replicate, such as with the sporesprawls. Blight researchers were initially very interested in studying what they thought were 'docile blightbeasts', only to then learn that they were not blightbeasts at all. Later still, blightbleeds were discovered, and self-preservation saw the number of eager scientists lining up to journey into festerfonts to seek out blightfungi dwindle to a small trickle.",
+        "Though blightsources and most definitely not blightbeasts, blightfungi are dangerous in an environment where a seeker's resources preserve their lives. Exhausted resources due to a poorly situated camp, such as one in a cluster of blightshrooms, is yet another threat to contend with out on contract. Blightfungi are commonly found in all festerfont biomes save for deserts."
+      ],
+      "subcategories": [
+        {
+          "category": "Blightfungi",
+          "subcategory": "Blightshrooms",
+          "description": [
+            "A blightshroom bears a resemblance to a mushroom, including cap and mycelium structures. However, it is typically sustained by a festerfont's energies, though it can be supplied with an alternate food source. Most are very efficient at extracting certain nutrients from whatever they grow on. In some cases, festerfonts develop to reclaim this energy through some yet-unknown method.",
+            "Blightshrooms can be harvested and used to extract nutrients from various surfaces, including the very ground, though it is difficult for researchers to predict what will be extracted, and varying results leads to disappointments. Hope for more practical applications remain strong, at least for some blightfungi materials."
+          ]
+        },
+        {
+          "category": "Blightfungi",
+          "subcategory": "Blightbleeds",
+          "description": [
+            "A blightbleed is a type of blightfungus that grows on a living thing, taking the appearance of a bubbling jelly. It is named after a particularly ugly appearance, as if Blighted blood drips from the host. Coloration of this 'blood' depends on the specimen in question, and also upon the host it has attached itself to.",
+            "Sometimes, a blightbleed can be useful for its mutualistic relationship with the organic matter that hosts it. Normally, a human or any such intelligent species would not be crazy enough to willingly allow the Blight to grow on them, but some eccentric seekers or civilians have cultivated blightbleed on their bodies to augment their abilities. Ironically, later discoveries reveal that a person integrated with a blightbleed growth is more resistant to the harmful mental effects of the Blight Malady."
+          ]
+        },
+        {
+          "category": "Blightfungi",
+          "subcategory": "Sporesprawls",
+          "description": [
+            "A sporesprawl is a rare type of blightfungi that will remain dormant in a pod-like structure, passively feeding on whatever stray energy is nearby, until it activates and begins producing spores at an explosive rate. These spores then begin to spread a spongy growth wherever they touch down, forming the substance that could be considered the second stage manifestation of the sporesprawl. Finally, the spongy growth starts to decay, receding back into freshly formed pods, accumulating in areas with the highest resource availability. This process is excessively disruptive to the surrounding environment, puzzling researchers.",
+            "- Harvesters and combat seekers alike avoid areas where sporesprawls are known to be active. It is not a pleasant experience to have your body's vitality sapped away with every step you take, worse still when you find that coexisting blightbeasts all have traits that make them suited to operate in such environments."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Blightanomalies",
+      "description": [
+        "The blightanomalies are bizarre oddities that only appear in festerfonts. Very little is known about them. They are prized by collectors, who believe they grant special powers, once unlocked. However, there has yet to be any scientific test that measured any such boon being granted by one of these objects. Though certain tests can confirm whether an object actually is a blightanomaly or if it is just a fake. Every single blightanomaly is unique, though some have similar powers.",
+        "Given that cults have sprung up upon the discovery of these objects, blightanomalies aren't so much harvested as they are collected and safely secured. Some  have seen use as special tools of power, but only the government and the Blightbane Guild can authorize such uses. Blightanomalies aren't found in greater or lesser quantities in any particular biome. That is to say, they are extremely rare in any biome."
+      ],
+      "subcategories": [
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Tokens",
+          "description": [
+            "Tokens are the most commonly found category of blightanomaly, but that in no way means they are easy to find. Often, their effects are subtle enough to write off as tricks of the mind, lies, or any such natural occurrence.",
+            "Samples from this category of blightanomaly are often studied in earnest. If a firm confidence can be reached in a token's power, they can be authorized for use in festerfont purges and such high-threat engagements."
+          ]
+        },
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Loci",
+          "description": [
+            "Loci are moderate-strength blightanomalies. They are rarer than tokens, but that hasn't stopped them from causing a lot of damage over the years.",
+            "These are only rare authorized for use by the Blightbane Branch leader responsible for securing them, usually only in an emergency, and only when the effect of the locus is well documented."
+          ]
+        },
+        {
+          "category": "Blightanomalies",
+          "subcategory": "Vestiges",
+          "description": [
+            "Vestiges are extraordinarily rare blightanomalies which have the capability to cause massive disruptions to everyday life. The spread of this chaos can be as small as only the holder, or in most cases, as unrestrained as to spread to a wide area and engulf hundreds in the effect.",
+            "The name is a reference to the Orchestrators, but few know that. The Blightbane Guild has a standing order to acquire and contain any known vestiges, as their use is strictly forbidden without the national Blightbane Guild leader's approval. Shroud's leadership has such an order too, but they have yet to make the connection between the rare appearance of such an object and The Blight. Maybe if they did, they wouldn't ignore the threat the phenomenon poses."
+          ]
+        }
+      ]
+    }
+  ],
+  "market": {
+    "description": [
+      "Given how blightsource trading has flourished as of late, and sales of unrefined, refined, and derivitive products seizes an enormous share of overall economic activity, we see fit to track market trends. This fledgeling sector is ubiquitous, but it would be irresponsible not to inform users of its highly volatile nature.",
+      "Without further research, it would be hard to know where the market will be in one year, let alone five.",
+      ""
+    ],
+    "marketIntro": "We primarily source data from Blightbane Guild Branches, but we also enlist the services of affiliate traders. Affiliation with the Guild has the following benefits:",
+    "marketBenefits": ["Benefit1", "Benefit2", "Benefit3"],
+    "benefitDescription": "This means security, above all, is the highest benefit we offer.",
+    "contactDescription": "There are many more services offered to affiliates. Contact an Administration Division Clerk today for more info!",
+    "merchantTestimonials": [
+      {
+        "shopName": "Ashera's Attires",
+        "merchantName": "Ashera",
+        "merchantTitle": "Owner",
+        "testimonial": "Ashera prides herself in having a wide selection of garments with custom fitting services. However, she has recently been able to expand her services to include protective wears, thanks to the many clients the Guild sends her way."
+      },
+      {
+        "shopName": "",
+        "merchantName": "",
+        "merchantTitle": "Owner",
+        "testimonial": ""
+      },
+      {
+        "shopName": "",
+        "merchantName": "",
+        "merchantTitle": "Owner",
+        "testimonial": ""
+      }
+    ]
+  },
+  "merchant": {
+    "description": "Affiliate merchants are afforded many rightsXXXX"
+  }
+}

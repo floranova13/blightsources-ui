@@ -1,0 +1,41 @@
+{
+  "blightIntro": [
+    "The Blight has marred the landscape of the known world since as far back as every existing culture's history extends. There have always been festerfonts dotting the landscape, blightbeasts prowling those territories, and danger. However, there exist remote implications nestled within ancient historical accounts, speaking of a time before. No surviving record was written at that hypothetical time, but there must have been a time. Now, however, the Blight is ever-present to all who do not care to cloister themselves in ignorance.",
+    "The Blight is dangerous. The Blight seems to hunger for the land itself, claiming and summarily defending territory with a vengeance, and it grows more virulent with every passing year. Blight Seekers of the Blightbane Guild believe there has never been a more dangerous time regarding Blight, but they've always been making that claim. They may be right.",
+    ""
+  ],
+  "blightDescription": [
+    "The Blight refers to what is known among scientists as an 'artificial natural phenomenon'. Unfortunately, there are only hypotheses regarding the instantiation of The Blight. These include an supremely technologically advanced ancient world's biological weapon run rampant, natural causes, Pulse intervention, and alien infestation. Scientists cannot agree on any cause to stand above the rest, with a lack of evidence for every one.",
+    "Each festerfont behaves like a single organism, spawning blightbeasts to defend it like antibodies. However, new research draws attention to ancillary functions being undertaken by other blightbeasts. In addition, each festerfont appears to actually be a part of a web of infections. If one grows powerful enough, it increases the chance a new one will spawn somewhere nearby. All and all, The Blight is a strange and dangerous, enigmatic force.",
+    "Note: Our Wayward Faction historians believe this entity was manufactured by a rival faction. We do not know how or for what purpose, but The Blight bears the mark of the forbidden sciences. Further examination needed."
+  ],
+  "blightseedsDescription": [
+    "Blightseeds are strange crystalline masses, found in various colors inside the bodies of blightbeasts. Whether they are the source of the blightbeast's power or merely a byproduct of it, it remains to be seen. Blightbane Guild Intelligence Division staff have found that the act of removing a seed 'kills' the host body, but successfully extracting a seed is often harder to do than merely slaying the beast by normal means. The color of the seed indicates the approximate 'accumulation density' found within. There are subtler patterning distinctions that can help a seeker gauge the worth of a seed beyond the obvious color, but few consider it worth the effort.",
+    "Upon ingesting a seed, a person's body undergoes a rapid change. Not so rapid as to take effect in the short term, but rapid enough to bring about changes never thought imaginable in a lifetime, in as little as a day to as long as a week. There are diminishing returns upon repeated exposures to to Blight Accumulation, but every little drop counts when you're a seeker facing the most dangerous blightbeasts.",
+    ""
+  ],
+  "festerfontsIntro": [
+    "In the beginning, the first festerfonts were rumors, tales told during primitive civilization's gatherings, as well as passed along by early explorers. They referred to isolated pockets of oddities, no more dangerous than the average trek through uncivilized wilderness. In fact, primitive festerfonts might have been safer than normal wilderness, which was host to all manner of horrific creatures. The Shrouded Theocracy, at the very least, makes a point of taming the wilderness. They outsource the handling of the festerfonts, however, to the local Branches of the Blightbane Guild.",
+    "Young festerfonts will have starkly different biomes from untainted land. As a festerfont accumulates saturation and age, it learns to blend in by finding living creatures to occupy its land. It is a learned disguise. A young festerfont may disturb travellers with its presence, but an ancient festerfont is a thing to fear. Travellers may not know it, but they have no chance of escaping alive once they cross the threshold.",
+    ""
+  ],
+  "blightsourcesIntro": [
+    "Sometimes called 'Blight Resources', these strange materials can only be found within the bounds of festerfonts. Each unique festerfont will have a distinct  composition of blightsources, with many variants entirely exclusive to specific biomes, festerfont configurations, and festerfonts saturations, and even the combinations of the three factors and more. Though harvesters and seekers are discovering new blightsources every year, only a few dozen are highly traded in markets. These are those with known and valued uses, while the others are still being studied for practical applications.",
+    "From the first time these resources began to pass hands in the markets of the undeveloped world, they were easily distinguishable from the bounty of the natural world. Blightsources have properties that are far beyond the norm, from magical distortions or amplification, to toxins potent enough to spread death across an entire city in a week. The latter is an extreme example, but suffice it to say traders far and wide salivate at the thought of upturning markets with blightsources."
+  ],
+  "blightbeastsIntro": [
+    "Blightbeasts are a class of phenomena distinct from natural life. These creatures exhibit different behavior from creatures that do not possess 'blightseeds', the peculiar anatomical regularity present in every blightbeast. Blightbeasts materialize in certain locations, designated as 'festerfonts' by the Blightbane Guild. Before the founding of the Guild, there were only rumors of creatures that dispersed after death, leaving behind only peculiar cores of colored flesh. Many cultures associated them with the work of the gods.",
+    "As the sapient races of known world spread out and sought to dominate the wilderness, establishing trade routes with distant territories, the threat of the blightbeast became a noticeable thorn in the side of the developing world. They weren't only dangerous, they were also an unrewarding foe, leaving behind nothing but the strange seeds after death. No meat, and no other materials worth trading.",
+    ""
+  ],
+  "blightseedsIntro": [
+    "Blightseeds are strange crystalline masses, found in various colors inside the bodies of blightbeasts. Whether they are the source of the blightbeast's power or merely a byproduct of it, it remains to be seen. Blightbane Guild Intelligence Division staff have found that the act of removing a seed 'kills' the host body, but successfully extracting a seed is often harder to do than merely slaying the beast by normal means. The color of the seed indicates the approximate 'accumulation density' found within. There are subtler patterning distinctions that can help a seeker gauge the worth of a seed beyond the obvious color, but few consider it worth the effort.",
+    "Upon ingesting a seed, a person's body undergoes a rapid change. Not so rapid as to take effect in the short term, but rapid enough to bring about changes never thought imaginable in a lifetime, in as little as a day to as long as a week. There are diminishing returns upon repeated exposures to to Blight Accumulation, but every little drop counts when you're a seeker facing the most dangerous blightbeasts.",
+    ""
+  ],
+  "accumulationIntro": [
+    "When a person consumes a blightseed, they absorb a measure of power. Studies suggest it is not harmful to the person. They will not become like a blightbeast, but will instead develop more powerful and more capable of defending themselves. For every active and prospective seekers, this edge is essential.",
+    "Each individual will accumulate Blight energies in a unique way. There is no known cause for the variation, and a person will not know what variant of evolution their body possesses until they partake of their first seed and discover for themselves.",
+    "The most common method of accumulation is by oral blightseed ingestion. Some have tried other methods, but most have not survived."
+  ]
+}
