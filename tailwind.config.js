@@ -945,7 +945,6 @@ module.exports = {
       blightanomalies: '#432534ff',
     },
   },
-  plugins: [
-    require('@tailwindcss/typography'),
-  ],
+  plugins: [require('@tailwindcss/typography'), require('@tailwindcss/forms')],
 };
+
