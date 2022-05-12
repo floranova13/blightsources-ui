@@ -1,12 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { Amplify } from 'aws-amplify';
-import aws_exports from './aws-exports';
 import { signOut } from './utils/auth';
 import SignInForm from './components/login/SignInForm';
 import SignUpForm from './components/login/SignUpForm';
-Amplify.configure(aws_exports);
+
 
 function App() {
   const [user, setUser] = useState(null);
